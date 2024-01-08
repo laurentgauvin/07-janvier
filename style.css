@@ -1,0 +1,37 @@
+h1 {
+    color: brown;
+    font-family: 'roboto', sans-serif;
+    font-size: 25px;
+    border: 1px solid rgb(83, 53, 14);
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    background-color: salmon;
+}
+p {
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+    font-size: 18px;
+    border: 1px solid rgb(83, 53, 14);
+    padding: 5px;
+    margin: 5px;
+    text-align: justify;
+}
+h2 {
+font-size: 20px;
+color: sienna;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-decoration-line: underline;
+text-decoration: color( brown);
+}
+ul li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: rgb(83, 53, 14);
+}
+
+ol li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: rgb(83, 53, 14);
+}
